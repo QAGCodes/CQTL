@@ -1,0 +1,624 @@
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Sep-23 08:00pm 
+
+Name:TREC 
+Capacity: 4/300 // 2% 
+Last Updated: Sep-25 12:27pm 
+
+Name:TREC 
+Capacity: 12/300 // 4% 
+Last Updated: Sep-25 01:19pm 
+
+Name:TREC 
+Capacity: 13/300 // 5% 
+Last Updated: Sep-25 02:29pm 
+
+Name:TREC 
+Capacity: 19/300 // 7% 
+Last Updated: Sep-25 03:09pm 
+
+Name:TREC 
+Capacity: 19/300 // 7% 
+Last Updated: Sep-25 03:09pm 
+
+Name:TREC 
+Capacity: 15/300 // 5% 
+Last Updated: Sep-25 04:32pm 
+
+Name:TREC 
+Capacity: 13/300 // 5% 
+Last Updated: Sep-25 05:35pm 
+
+Name:TREC 
+Capacity: 12/300 // 4% 
+Last Updated: Sep-25 06:33pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-25 07:31pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-25 07:31pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-25 07:31pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 10:02pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 10:02pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-25 11:03pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 10:19am 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 10:19am 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 11:29am 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 12:41pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 01:15pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 02:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 03:04pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 04:27pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 04:27pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 05:46pm 
+
+Name:TREC 
+Capacity: 11/300 // 4% 
+Last Updated: Sep-26 06:18pm 
+
+Name:TREC 
+Capacity: 15/300 // 5% 
+Last Updated: Sep-26 07:27pm 
+
+Name:TREC 
+Capacity: 13/300 // 5% 
+Last Updated: Sep-26 08:33pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:12pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-26 09:11pm 
+
+Name:TREC 
+Capacity: 27/300 // 9% 
+Last Updated: Sep-27 06:20pm 
+
+Name:TREC 
+Capacity: 18/300 // 6% 
+Last Updated: Sep-27 07:21pm 
+
+Name:TREC 
+Capacity: 20/300 // 7% 
+Last Updated: Sep-27 08:21pm 
+
+Name:TREC 
+Capacity: 20/300 // 7% 
+Last Updated: Sep-27 08:21pm 
+
+Name:TREC 
+Capacity: 20/300 // 7% 
+Last Updated: Sep-27 09:21pm 
+
+Name:TREC 
+Capacity: 12/300 // 4% 
+Last Updated: Sep-28 12:06pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-28 01:06pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-28 01:06pm 
+
+Name:TREC 
+Capacity: 6/300 // 2% 
+Last Updated: Sep-28 06:44pm 
+
+Name:TREC 
+Capacity: 54/300 // 18% 
+Last Updated: Sep-28 07:13pm 
+
+Name:TREC 
+Capacity: 54/300 // 18% 
+Last Updated: Sep-28 07:13pm 
+
+Name:TREC 
+Capacity: 54/300 // 18% 
+Last Updated: Sep-28 07:13pm 
+
+Name:TREC 
+Capacity: 40/300 // 14% 
+Last Updated: Sep-28 09:50pm 
+
+Name:TREC 
+Capacity: 8/300 // 3% 
+Last Updated: Sep-29 06:40pm 
+
+Name:TREC 
+Capacity: 8/300 // 3% 
+Last Updated: Sep-29 06:40pm 
+
+Name:TREC 
+Capacity: 8/300 // 3% 
+Last Updated: Sep-29 06:40pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Sep-29 08:52pm 
+
+Name:TREC 
+Capacity: 1/300 // 1% 
+Last Updated: Sep-30 11:41am 
+
+Name:TREC 
+Capacity: 13/300 // 5% 
+Last Updated: Sep-30 12:37pm 
+
+Name:TREC 
+Capacity: 13/300 // 5% 
+Last Updated: Sep-30 12:37pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-30 02:11pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-30 03:13pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-30 03:13pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Sep-30 04:19pm 
+
+Name:TREC 
+Capacity: 11/300 // 4% 
+Last Updated: Sep-30 06:19pm 
+
+Name:TREC 
+Capacity: 11/300 // 4% 
+Last Updated: Sep-30 06:19pm 
+
+Name:TREC 
+Capacity: 30/300 // 10% 
+Last Updated: Sep-30 07:26pm 
+
+Name:TREC 
+Capacity: 31/300 // 11% 
+Last Updated: Sep-30 08:19pm 
+
+Name:TREC 
+Capacity: 34/300 // 12% 
+Last Updated: Sep-30 09:46pm 
+
+Name:TREC 
+Capacity: 34/300 // 12% 
+Last Updated: Sep-30 09:46pm 
+
+Name:TREC 
+Capacity: 34/300 // 12% 
+Last Updated: Sep-30 09:46pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Oct-02 12:24pm 
+
+Name:TREC 
+Capacity: 2/300 // 1% 
+Last Updated: Oct-02 01:20pm 
+
+Name:TREC 
+Capacity: 2/300 // 1% 
+Last Updated: Oct-02 02:26pm 
+
+Name:TREC 
+Capacity: 20/300 // 7% 
+Last Updated: Oct-02 03:25pm 
+
+Name:TREC 
+Capacity: 20/300 // 7% 
+Last Updated: Oct-02 03:25pm 
+
+Name:TREC 
+Capacity: 20/300 // 7% 
+Last Updated: Oct-02 03:25pm 
+
+Name:TREC 
+Capacity: 20/300 // 7% 
+Last Updated: Oct-02 03:25pm 
+
+Name:TREC 
+Capacity: 12/300 // 4% 
+Last Updated: Oct-02 06:24pm 
+
+Name:TREC 
+Capacity: 21/300 // 8% 
+Last Updated: Oct-02 07:39pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-02 08:17pm 
+
+Name:TREC 
+Capacity: 22/300 // 8% 
+Last Updated: Oct-02 09:25pm 
+
+Name:TREC 
+Capacity: 22/300 // 8% 
+Last Updated: Oct-02 09:25pm 
+
+Name:TREC 
+Capacity: 12/300 // 4% 
+Last Updated: Oct-03 06:24pm 
+
+Name:TREC 
+Capacity: 12/300 // 4% 
+Last Updated: Oct-03 06:24pm 
+
+Name:TREC 
+Capacity: 10/300 // 4% 
+Last Updated: Oct-03 07:28pm 
+
+Name:TREC 
+Capacity: 13/300 // 5% 
+Last Updated: Oct-03 08:33pm 
+
+Name:TREC 
+Capacity: 14/300 // 5% 
+Last Updated: Oct-03 09:34pm 
+
+Name:TREC 
+Capacity: 14/300 // 5% 
+Last Updated: Oct-04 07:24pm 
+
+Name:TREC 
+Capacity: 17/300 // 6% 
+Last Updated: Oct-04 08:31pm 
+
+Name:TREC 
+Capacity: 17/300 // 6% 
+Last Updated: Oct-04 08:31pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-04 09:22pm 
+
+Name:TREC 
+Capacity: 12/300 // 4% 
+Last Updated: Oct-04 10:18pm 
+
+Name:TREC 
+Capacity: 4/300 // 2% 
+Last Updated: Oct-05 06:59pm 
+
+Name:TREC 
+Capacity: 24/300 // 8% 
+Last Updated: Oct-05 07:39pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Oct-05 08:43pm 
+
+Name:TREC 
+Capacity: 44/300 // 15% 
+Last Updated: Oct-05 08:43pm 
+
+Name:TREC 
+Capacity: 18/300 // 6% 
+Last Updated: Oct-06 06:34pm 
+
+Name:TREC 
+Capacity: 25/300 // 9% 
+Last Updated: Oct-06 07:19pm 
+
+Name:TREC 
+Capacity: 29/300 // 10% 
+Last Updated: Oct-06 08:20pm 
+
+Name:TREC 
+Capacity: 29/300 // 10% 
+Last Updated: Oct-06 08:20pm 
+
+Name:TREC 
+Capacity: 24/300 // 8% 
+Last Updated: Oct-06 09:38pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 16/300 // 6% 
+Last Updated: Oct-06 10:35pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Oct-07 11:24am 
+
+Name:TREC 
+Capacity: 11/300 // 4% 
+Last Updated: Oct-07 12:52pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Oct-07 01:35pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Oct-07 02:15pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Oct-07 02:15pm 
+
+Name:TREC 
+Capacity: 0/300 // 0% 
+Last Updated: Oct-07 04:21pm 
+
+Name:TREC 
+Capacity: 55/300 // 19% 
+Last Updated: Oct-07 08:06pm 
+
+Name:TREC 
+Capacity: 48/300 // 16% 
+Last Updated: Oct-07 09:04pm 
+
+Name:TREC 
+Capacity: 8/300 // 3% 
+Last Updated: Oct-12 11:39am 
+
+Name:TREC 
+Capacity: 8/300 // 3% 
+Last Updated: Oct-12 11:39am 
+
+Name:TREC 
+Capacity: 27/300 // 9% 
+Last Updated: Oct-12 01:21pm 
+
+Name:TREC 
+Capacity: 27/300 // 9% 
+Last Updated: Oct-12 01:21pm 
+
+Name:TREC 
+Capacity: 19/300 // 7% 
+Last Updated: Oct-12 06:15pm 
+
+Name:TREC 
+Capacity: 19/300 // 7% 
+Last Updated: Oct-12 06:15pm 
+
+Name:TREC 
+Capacity: 27/300 // 9% 
+Last Updated: Oct-12 07:56pm 
+
+Name:TREC 
+Capacity: 24/300 // 8% 
+Last Updated: Oct-12 08:22pm 
+
+Name:TREC 
+Capacity: 32/300 // 11% 
+Last Updated: Oct-12 09:36pm 
+

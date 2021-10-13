@@ -1,0 +1,64 @@
+
+function SetAnalytics(mCode,sCodes)
+{
+	var gaPurdueCode = "UA-2785081-1";
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-WWGMN6Z');
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+if(mCode == '' && sCodes.length > 0)
+{
+    mCode = sCodes[0];
+		sCodes.shift();
+		
+}
+    
+if(mCode && mCode != '')
+	{
+		SetMainAnalytics(mCode);
+	}
+	var i = sCodes.length;
+	if(i>0)
+	{
+		for(var n=0;n<i;n++)
+		{
+			if(sCodes[n] && sCodes[n] != '' && sCodes[n] != gaPurdueCode)
+			{
+				SetSecondaryAnalytics(sCodes[n],n);
+			}
+		}
+	}
+}
+
+function SetMainAnalytics(code)
+{
+	ga('create', code, 'auto');
+	ga('require', 'linkid',{
+	  'cookieName': '_ela',
+	  'duration': 45,
+	  'levels': 5
+	});
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+}
+
+function SetSecondaryAnalytics(code,n)
+{
+	var trackerName = 'tracker'+n;
+	ga('create', code, 'auto', trackerName);
+	ga(trackerName+'.require', 'displayfeatures');
+	ga(trackerName+'.send', 'pageview');
+}
+
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+}
